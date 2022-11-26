@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from rachiopy import Rachio
 import time
 import secret
